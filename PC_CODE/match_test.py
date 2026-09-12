@@ -5,6 +5,7 @@ ENROLLED_IMAGE = "hussain_1.png"
 TEST_IMAGE = "other_fingure.png"
 
 
+
 print("Loading fingerprint matcher...")
 
 # Extract minutiae using pure-Python MINDTCT
