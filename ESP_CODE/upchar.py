@@ -20,7 +20,7 @@ uart = UART(
 
 ADDRESS = b'\xFF\xFF\xFF\xFF'
 
-TEMPLATE_FILE = "operator_001_template.bin"
+TEMPLATE_FILE = "operator_004_template.bin"
 
 time.sleep_ms(500)
 
